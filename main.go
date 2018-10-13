@@ -7,6 +7,9 @@ import (
 
 func main() {
 
-	fmt.Println("integer: ", functions.IntegerGoster())
+	//fmt.Println("integer: ", functions.IntegerGoster())
+	//fmt.Println("float: ", functions.FloatGoster())
+
+	fmt.Print("string: \n", functions.StringGoster())
 
 }
