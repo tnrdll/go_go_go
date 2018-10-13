@@ -2,14 +2,8 @@ package main
 
 import "fmt"
 
+func main() {
 
-
-func main(){
-
-	fmt.Print("hello")
-
+	fmt.Println("integer: ", integerGoster())
 
 }
-
-
-
