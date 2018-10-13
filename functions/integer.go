@@ -1,6 +1,6 @@
-package main
+package functions
 
-func integerGoster() (int)  {
+func IntegerGoster() (int)  {
 
 	var sayi1, sayi2, toplam int
 

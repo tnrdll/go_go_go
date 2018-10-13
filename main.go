@@ -1,9 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"awesomeProject1/functions"
+	"fmt"
+)
 
 func main() {
 
-	fmt.Println("integer: ", integerGoster())
+	fmt.Println("integer: ", functions.IntegerGoster())
 
 }
